@@ -84,7 +84,7 @@
   <section id="contact">
     <h3>Contact</h3>
     <ul class="list">
-      <li>Email: <a href="mailto:saitejapodila@gmail.com">saitejapodila@gmail.com</a></li>
+      <li>Email: <a href="mailto:saitejapodila2003@gmail.com">saitejapodila2003@gmail.com</a></li>
       <li>GitHub: <a href="https://github.com/saitejapodila" target="_blank">github.com/saitejapodila</a></li>
       <li>LinkedIn: <a href="https://linkedin.com/in/podila-saiteja-50276136b" target="_blank">LinkedIn Profile</a></li>
     </ul>
